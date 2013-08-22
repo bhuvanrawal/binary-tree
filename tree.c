@@ -1,3 +1,4 @@
+/*This is a C program to Create a binary tree, to do traversal of the same and to find a specific node*/
 #include <stdio.h>
 #include <stdlib.h>
 struct binary_tree{
