@@ -15,7 +15,7 @@ int main(){
 	int choice,data,r;
 	printf("Please insert your option: ");
 	while(1){
-		printf("Enter 1 to insert, 2 to search a node, 3 to do inorder 5 to quit\n");
+		printf("Enter 1 to insert, 2 to search a node, 3 to do inorder 4 to quit\n");
 		scanf("%d",&choice);
 		switch(choice){
 			case 1: printf("Enter the data to be inserted\n");
